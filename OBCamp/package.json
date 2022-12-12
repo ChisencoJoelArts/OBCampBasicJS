@@ -1,0 +1,24 @@
+{
+  "name": "obcamp",
+  "version": "1.0.0",
+  "description": "Homework done!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChisencoJoelArts/OBCampBasicJS.git"
+  },
+  "keywords": [
+    "holamundo",
+    "open-bootcamp"
+  ],
+  "author": "Joel Sanchez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChisencoJoelArts/OBCampBasicJS/issues"
+  },
+  "homepage": "https://github.com/ChisencoJoelArts/OBCampBasicJS#readme"
+}
